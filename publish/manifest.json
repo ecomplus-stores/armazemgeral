@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dc34e7c472c35ffbc2d107133c5e9f30.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a097d1e331baa28756a07057a6b0dd3e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3491413d9bc51b8d89dda5f264c87d6b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.620422086a83d81ec6ade522013cd728.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4883ed1572e47d67f17317d3f9140fa8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "armazemgeral",
+  "short_name": "armazemgeral",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de venda de móveis em madeira e ferro, usando de materiais ecologicamente corretos, fabricamos qualquer tipo de móveis sob encomenda.",
+  "background_color": "#ffffff",
+  "theme_color": "#ffd900"
+}
